@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:aplicacion_login/ejercicio1/homePrincipal.dart';
+import 'package:/aplicacion_login/ejercicio1/homePrincipal.dart';
 
 void main() {
   runApp(const Principal());
